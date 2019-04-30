@@ -184,6 +184,6 @@ Se encuentran el servicio encargado de gestionar la eliminación de un producto.
 
 - Clonar el proyecto
 - Configurar <a href="https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec">HTTPS en su computador</a> *Esto para evitar el error por <a href="https://developer.mozilla.org/es/docs/Web/HTTP/Access_control_CORS">CORS</a>*
-- Necesita un interperte para el lenguaje PHP <a href="https://www.apachefriends.org/es/index.html"> Instalar XAMP</a>
+- Necesita un interprete para el lenguaje PHP <a href="https://www.apachefriends.org/es/index.html"> Instalar XAMP</a>
 - Agrege los archivos del proyecto en la carpeta *htdocs*
 - Ingrese al navegador a la siguiente URL *http://localhost:80/nombre_carpeta_proyecto/index.php* y compruebe el funcionamiento.
